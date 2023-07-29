@@ -1,0 +1,3 @@
+# CRUD-Lead-Jot
+This is a CRUD app developed with Node.js, express, MongoDB, and Handlebars as a templating engine, other technologies include bootstrap and Jquery, along with some simple VanillaJs. This is an implementation of Brad Traversy's  VidJot project from his udemy course, I altered the apps purpose and also added extra data fields as well as worked on the layout and UI. The purpose of the development of this is to familiarize myself with GET, POST, UPDATE, and DELETE methods in Node.js, Experss and MongoDB. I Developed this app also to help me keep track of business leads. The name of the app is Lead Jot. 
+
